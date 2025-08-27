@@ -8672,3 +8672,39 @@
 {"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.381Z"}
 {"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.381Z"}
 {"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.915Z"}
+{"level":"debug","message":"Cache miss for key: movie_search:eyJzZWFyY2giOiJuZXcgZGF5IiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-27T21:03:03.752Z"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","page":"1","s":"new day","type":"movie"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:03.787Z","url":"/"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.988Z"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt7139936","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt8664050","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt1887676","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt7089882","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt0185542","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt0097964","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt31194487","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt0478213","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt0300653","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.990Z","url":"/"}
+{"level":"debug","message":"OMDb API Request:","params":{"apikey":"7ebbb9db","i":"tt0271804","plot":"full"},"service":"movieflix-backend","timestamp":"2025-08-27T21:03:04.991Z","url":"/"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:05.297Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:05.302Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.040Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.040Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.040Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.040Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.041Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.041Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.053Z"}
+{"level":"debug","message":"OMDb API Response received","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.063Z"}
+{"level":"debug","message":"Cache set for key: movie_search:eyJzZWFyY2giOiJuZXcgZGF5IiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319, expires at: Thu Aug 28 2025 04:33:06 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T21:03:06.108Z"}
+{"level":"info","message":"Cleaned up 1 expired cache entries","service":"movieflix-backend","timestamp":"2025-08-27T21:30:00.097Z"}
+{"level":"info","message":"Cache cleanup completed: 1 entries removed","service":"movieflix-backend","timestamp":"2025-08-27T21:30:00.100Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T21:40:20.959Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T21:40:20.988Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T21:40:20.989Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T21:40:20.989Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T21:40:21.830Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.042Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.068Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.068Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.069Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.470Z"}
