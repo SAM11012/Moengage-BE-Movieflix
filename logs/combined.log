@@ -8607,3 +8607,15 @@
 {"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T19:21:07.234Z"}
 {"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T19:21:07.234Z"}
 {"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T19:21:11.346Z"}
+{"level":"info","message":"Cleaned up 2 expired cache entries","service":"movieflix-backend","timestamp":"2025-08-27T19:30:00.112Z"}
+{"level":"info","message":"Cache cleanup completed: 2 entries removed","service":"movieflix-backend","timestamp":"2025-08-27T19:30:00.115Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T19:30:42.174Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T19:30:42.207Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T19:30:42.208Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T19:30:42.208Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T19:30:48.348Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T19:30:54.630Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T19:30:54.656Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T19:30:54.657Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T19:30:54.657Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T19:30:58.233Z"}
