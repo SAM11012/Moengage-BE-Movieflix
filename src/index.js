@@ -57,7 +57,10 @@ app.use(
 
       const allowedOrigins =
         config.NODE_ENV === "production"
-          ? ["https://your-frontend-domain.com"]
+          ? [
+              "https://your-frontend-domain.com", // Replace with your actual deployed frontend domain
+              "http://localhost:8080",            // Allow localhost for testing
+            ]
           : [
               "http://localhost:3000",
               "http://localhost:3001",
