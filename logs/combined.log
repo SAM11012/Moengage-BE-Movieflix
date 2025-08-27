@@ -8624,3 +8624,46 @@
 {"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T19:35:07.899Z"}
 {"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T19:35:07.899Z"}
 {"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T19:35:14.483Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:18:55.219Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:48:55 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:18:55.551Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:19:38.379Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:49:38 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:19:38.724Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:20:06.389Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:50:06 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:20:06.727Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:21:07.651Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:51:07 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:21:07.743Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:21:12.367Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:51:12 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:21:12.455Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:21:14.544Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:51:14 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:21:14.641Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:23:13.799Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:53:13 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:23:13.940Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:25:46.451Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:55:46 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:25:46.556Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:29:33.383Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 01:59:33 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:29:33.488Z"}
+{"level":"info","message":"Cleaned up 1 expired cache entries","service":"movieflix-backend","timestamp":"2025-08-27T20:30:00.057Z"}
+{"level":"info","message":"Cache cleanup completed: 1 entries removed","service":"movieflix-backend","timestamp":"2025-08-27T20:30:00.057Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:30:40.349Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:00:40 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:30:40.442Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:31:42.493Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:01:42 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:31:42.592Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:36:51.377Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:06:51 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:36:51.507Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:36:52.349Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:06:52 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:36:52.448Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:37:22.410Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:07:22 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:37:22.494Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:37:58.370Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:07:58 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:37:58.463Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:38:11.524Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:08:11 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:38:11.620Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:41:03.111Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:11:03 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:41:03.238Z"}
+{"level":"debug","message":"Cache miss for key: dashboard_stats:e30=","service":"movieflix-backend","timestamp":"2025-08-27T20:41:22.834Z"}
+{"level":"debug","message":"Cache set for key: dashboard_stats:e30=, expires at: Thu Aug 28 2025 02:11:22 GMT+0530 (India Standard Time)","service":"movieflix-backend","timestamp":"2025-08-27T20:41:23.039Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.382Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.413Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.414Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.414Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.907Z"}

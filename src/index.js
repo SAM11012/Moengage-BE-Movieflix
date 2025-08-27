@@ -59,7 +59,8 @@ app.use(
         config.NODE_ENV === "production"
           ? [
               "https://your-frontend-domain.com", // Replace with your actual deployed frontend domain
-              "http://localhost:8080",            // Allow localhost for testing
+              "http://localhost:8080", 
+              "https://movie-moengage-ovgdpwuh5-sam11012s-projects.vercel.app/"           // Allow localhost for testing
             ]
           : [
               "http://localhost:3000",
