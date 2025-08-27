@@ -8667,3 +8667,8 @@
 {"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.414Z"}
 {"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.414Z"}
 {"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T20:56:05.907Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.346Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.380Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.381Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.381Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T21:02:06.915Z"}
