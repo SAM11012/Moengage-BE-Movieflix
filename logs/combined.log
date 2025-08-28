@@ -8708,3 +8708,28 @@
 {"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.068Z"}
 {"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.069Z"}
 {"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-27T21:40:23.470Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-28T06:03:21.246Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-28T06:03:21.272Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-28T06:03:21.272Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-28T06:03:21.273Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-28T06:03:22.049Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-28T06:03:29.415Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-28T06:03:29.440Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-28T06:03:29.440Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-28T06:03:29.441Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-28T06:03:29.895Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:46.310Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:46.902Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:47.518Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:48.172Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:48.756Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:49.374Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:49.845Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:50.483Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:51.114Z"}
+{"level":"debug","message":"Cache hit for key: movie_search:eyJzZWFyY2giOiJqdW1hbmppIiwicGFnZSI6IjEiLCJzb3J0IjoicmVjZW50IiwiZmlsdGVycyI6e319","service":"movieflix-backend","timestamp":"2025-08-28T06:03:51.732Z"}
+{"level":"debug","message":"OMDB_API_KEY detected (masked)","service":"movieflix-backend","timestamp":"2025-08-28T06:05:35.099Z"}
+{"level":"info","message":"🚀 Server running in development mode on port 5173","service":"movieflix-backend","timestamp":"2025-08-28T06:05:35.129Z"}
+{"level":"info","message":"📊 API Documentation: http://localhost:5173/api","service":"movieflix-backend","timestamp":"2025-08-28T06:05:35.129Z"}
+{"level":"info","message":"💚 Health Check: http://localhost:5173/api/health","service":"movieflix-backend","timestamp":"2025-08-28T06:05:35.130Z"}
+{"level":"info","message":"MongoDB Connected: ac-hbgn0w3-shard-00-00.eipi6wj.mongodb.net","service":"movieflix-backend","timestamp":"2025-08-28T06:05:35.703Z"}

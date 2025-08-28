@@ -25,5 +25,5 @@ module.exports = {
     config.RATE_LIMIT.MAX
   ),
   auth: createRateLimiter(1 * 60 * 1000, 5, "Too many authentication attempts"),
-  search: createRateLimiter(2 * 60 * 1000, 30, "Too many search requests"),
+  search: createRateLimiter(2 * 60 * 1000, 10, "Too many search requests"),
 };
